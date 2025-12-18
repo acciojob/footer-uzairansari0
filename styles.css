@@ -26,6 +26,9 @@ footer {
 	font-size: 2rem;
     font-weight: bold;
 }
+.media-icons{
+	display:flex;
+}
 .media-icons a {
 	color: rgb(255, 255, 255);
 	background: rgb(51, 51, 51);
